@@ -135,31 +135,30 @@ speakers:
 
     # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
     # Can be left empty.
-    twitter:
+    twitter: CraigDSTOQ
 
     # The full URL, including http(s)://. Can be left empty.
     website: https://dstoq.com
 
     # The bio is a single line.
     # Linebreaks are ignored, but they _must_ start with two spaces.
-    bio: Investment analyst, trader, and economic strategist; managed a ~$600m
-      portfolio of 30+ companies. Involved in crypto since 2013.
+    bio: Craig comes from a background in Finance, with a postgraduate degree in Financial Analysis & Portfolio Management and got involved in cryptocurrencies in a personal capacity in 2013.
   -
     name: Anthony Barker
     title: CTO
     company: Tempo
-    companyURL:
-    twitter:
-    website:
-    bio:
+    companyURL: https://tempo.eu.com/
+    twitter: anthony_barker
+    website: https://tempo.eu.com/
+    bio: Anthony works as a CTO at Tempo Money Transfer. He is a blockchain visionary, entrepreneur and crypto influencer with more than 20 years of experience in the field of IT, banking, trading and fintech.
   -
     name: Kai Wagner
     title: Business Development
     company: Jolocom
-    companyURL:
-    twitter:
-    website:
-    bio:
+    companyURL: http://jolocom.io/
+    twitter: GETJolocom
+    website: http://jolocom.io/
+    bio: Kai drives business development & strategy at Jolocom. His commitment to self-sovereign identity extends outside the office as an active contributor to several working groups from the Blockchain Bundesverband, the German blockchain association.
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
